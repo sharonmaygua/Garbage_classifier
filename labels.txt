@@ -1,0 +1,4 @@
+0 plastic
+1 paper
+2 biological
+3 metal
